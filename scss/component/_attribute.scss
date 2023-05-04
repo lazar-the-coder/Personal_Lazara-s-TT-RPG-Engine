@@ -1,0 +1,23 @@
+@import '../utility/index';
+* {
+    box-sizing: border-box;
+}
+
+.attr {
+    display: flex;
+    width: 20em;
+    height: 2em;
+}
+
+.words {
+    flex: 2 100px;
+    margin: auto;
+}
+
+.unit {
+    flex-grow: 1;
+    text-align: center;
+    margin: auto;
+    background: #a3d1a7;
+    border: 1px solid black;
+}
