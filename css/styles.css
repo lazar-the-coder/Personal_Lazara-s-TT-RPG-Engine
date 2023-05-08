@@ -403,4 +403,9 @@ body {
   border: 1px solid black;
 }
 
+/* line 24, ../Project/ROT/Personal_Lazara-s-TT-RPG-Engine/scss/component/_attribute.scss */
+button:hover {
+  background: red;
+}
+
 /*# sourceMappingURL=styles.css.map */
